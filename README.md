@@ -2,13 +2,15 @@
 Advanced Threading
 
 ## Developers
-Five Developers Supun, Saliya, Pulasthi, Kannan and Vibhatha
+Vibhatha
 
 ## Initial Work
 
 In this project the thread base coding styles are handled
 
-Vibhatha
+Thread Concepts
 
-Supun says 1
-Vibhatha says 2
+## ReentranLocks 
+
+
+
