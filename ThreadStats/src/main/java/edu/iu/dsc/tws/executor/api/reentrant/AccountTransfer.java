@@ -5,6 +5,11 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 
+/*
+* Reference : https://dzone.com/articles/java-concurrency-reentrant-lock-1
+**/
+
+
 public class AccountTransfer {
 
     private ReentrantLock lock = new ReentrantLock();
